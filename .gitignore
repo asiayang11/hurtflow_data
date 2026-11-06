@@ -1,0 +1,13 @@
+.DS_Store
+.env*
+*.tmp
+*.tmp.json
+*.pem
+*.key
+*.log
+credentials.json
+auth.json
+data/.write-lock/
+data/workspace.backup.json
+workspace/assets/.audio-*/
+workspace/assets/.video-*/
