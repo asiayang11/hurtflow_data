@@ -1,0 +1,1166 @@
+{
+  "schemaVersion": 1,
+  "revision": 4,
+  "updatedAt": "2026-11-06T22:17:43.747Z",
+  "products": [],
+  "campaigns": [],
+  "assets": [],
+  "jobs": [],
+  "activity": [
+    {
+      "id": "681d4744-48bc-49c4-bffa-d6976ce335e2",
+      "text": "已取消榜单研究任务",
+      "at": "2026-11-06T22:17:43.747Z",
+      "kind": "info"
+    },
+    {
+      "id": "d6cda699-5a6f-4518-a767-217ef018a720",
+      "text": "发起榜单研究 · 2026-10-30 至 2026-11-05",
+      "at": "2026-11-06T22:17:41.822Z",
+      "kind": "info"
+    },
+    {
+      "id": "dea3f430-f727-4dc5-9e72-d6d6c8a8e044",
+      "text": "榜单任务结束 · 39 个去重产品",
+      "at": "2026-11-06T22:13:22.952Z",
+      "kind": "success"
+    },
+    {
+      "id": "ad5a8d08-b833-46de-9068-a13293f85c4a",
+      "text": "发起榜单研究 · 2026-10-30 至 2026-11-05",
+      "at": "2026-11-06T22:09:25.594Z",
+      "kind": "info"
+    }
+  ],
+  "settings": {
+    "brand": "AsiaYang",
+    "rssAuto": false,
+    "intervalMinutes": 60,
+    "lastSyncAt": null,
+    "lastSyncError": null
+  },
+  "leaderboardRuns": [
+    {
+      "id": "d196d8c2-f0ee-4b3a-a26f-607650d452a6",
+      "from": "2026-10-30",
+      "to": "2026-11-05",
+      "sources": [
+        {
+          "id": "day-2026-10-30",
+          "kind": "daily",
+          "label": "2026-10-30 日榜",
+          "from": "2026-10-30",
+          "to": "2026-10-30",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/10/30/all"
+        },
+        {
+          "id": "day-2026-10-31",
+          "kind": "daily",
+          "label": "2026-10-31 日榜",
+          "from": "2026-10-31",
+          "to": "2026-10-31",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/10/31/all"
+        },
+        {
+          "id": "day-2026-11-01",
+          "kind": "daily",
+          "label": "2026-11-01 日榜",
+          "from": "2026-11-01",
+          "to": "2026-11-01",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/1/all"
+        },
+        {
+          "id": "day-2026-11-02",
+          "kind": "daily",
+          "label": "2026-11-02 日榜",
+          "from": "2026-11-02",
+          "to": "2026-11-02",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/2/all"
+        },
+        {
+          "id": "day-2026-11-03",
+          "kind": "daily",
+          "label": "2026-11-03 日榜",
+          "from": "2026-11-03",
+          "to": "2026-11-03",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/3/all"
+        },
+        {
+          "id": "day-2026-11-04",
+          "kind": "daily",
+          "label": "2026-11-04 日榜",
+          "from": "2026-11-04",
+          "to": "2026-11-04",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/4/all"
+        },
+        {
+          "id": "day-2026-11-05",
+          "kind": "daily",
+          "label": "2026-11-05 日榜",
+          "from": "2026-11-05",
+          "to": "2026-11-05",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/5/all"
+        }
+      ],
+      "variant": "all",
+      "createdAt": "2026-11-06T22:17:41.822Z",
+      "updatedAt": "2026-11-06T22:17:43.747Z",
+      "phase": "scan",
+      "status": "cancelled",
+      "coverage": [],
+      "products": [],
+      "analysis": null
+    },
+    {
+      "id": "e212341c-eef1-4ed2-8ea3-47352ce50e46",
+      "from": "2026-10-30",
+      "to": "2026-11-05",
+      "sources": [
+        {
+          "id": "day-2026-10-30",
+          "kind": "daily",
+          "label": "2026-10-30 日榜",
+          "from": "2026-10-30",
+          "to": "2026-10-30",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/10/30"
+        },
+        {
+          "id": "day-2026-10-31",
+          "kind": "daily",
+          "label": "2026-10-31 日榜",
+          "from": "2026-10-31",
+          "to": "2026-10-31",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/10/31"
+        },
+        {
+          "id": "day-2026-11-01",
+          "kind": "daily",
+          "label": "2026-11-01 日榜",
+          "from": "2026-11-01",
+          "to": "2026-11-01",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+        },
+        {
+          "id": "day-2026-11-02",
+          "kind": "daily",
+          "label": "2026-11-02 日榜",
+          "from": "2026-11-02",
+          "to": "2026-11-02",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/2"
+        },
+        {
+          "id": "day-2026-11-03",
+          "kind": "daily",
+          "label": "2026-11-03 日榜",
+          "from": "2026-11-03",
+          "to": "2026-11-03",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/3"
+        },
+        {
+          "id": "day-2026-11-04",
+          "kind": "daily",
+          "label": "2026-11-04 日榜",
+          "from": "2026-11-04",
+          "to": "2026-11-04",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/4"
+        },
+        {
+          "id": "day-2026-11-05",
+          "kind": "daily",
+          "label": "2026-11-05 日榜",
+          "from": "2026-11-05",
+          "to": "2026-11-05",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/5"
+        },
+        {
+          "id": "week-2026-10-26",
+          "kind": "weekly",
+          "label": "2026-10-26 周榜",
+          "from": "2026-10-26",
+          "to": "2026-11-01",
+          "url": "https://www.producthunt.com/leaderboard/weekly/2026/44"
+        },
+        {
+          "id": "week-2026-11-02",
+          "kind": "weekly",
+          "label": "2026-11-02 周榜",
+          "from": "2026-11-02",
+          "to": "2026-11-08",
+          "url": "https://www.producthunt.com/leaderboard/weekly/2026/45"
+        }
+      ],
+      "variant": "featured",
+      "createdAt": "2026-11-06T22:09:25.594Z",
+      "updatedAt": "2026-11-06T22:13:22.952Z",
+      "phase": "both",
+      "status": "done",
+      "coverage": [
+        {
+          "sourceId": "day-2026-10-30",
+          "status": "read",
+          "count": 5,
+          "note": "核对 10 月 30 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/10/30)"
+        },
+        {
+          "sourceId": "day-2026-10-31",
+          "status": "read",
+          "count": 5,
+          "note": "核对 10 月 31 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/10/31)"
+        },
+        {
+          "sourceId": "day-2026-11-01",
+          "status": "read",
+          "count": 5,
+          "note": "核对 11 月 1 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/11/1)"
+        },
+        {
+          "sourceId": "day-2026-11-02",
+          "status": "read",
+          "count": 5,
+          "note": "核对 11 月 2 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/11/2)"
+        },
+        {
+          "sourceId": "day-2026-11-03",
+          "status": "read",
+          "count": 5,
+          "note": "核对 11 月 3 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/11/3)"
+        },
+        {
+          "sourceId": "day-2026-11-04",
+          "status": "read",
+          "count": 5,
+          "note": "核对 11 月 4 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/11/4)"
+        },
+        {
+          "sourceId": "day-2026-11-05",
+          "status": "read",
+          "count": 5,
+          "note": "核对 11 月 5 日 Daily · Featured，采样前 5 名。[官方榜单](https://www.producthunt.com/leaderboard/daily/2026/11/5)"
+        },
+        {
+          "sourceId": "week-2026-10-26",
+          "status": "read",
+          "count": 8,
+          "note": "核对 10 月 26 日至 11 月 1 日 Weekly · Featured，采样前 8 名。仅周榜出现的 4 款均无窗口内发布证据，留作参考。[官方榜单](https://www.producthunt.com/leaderboard/weekly/2026/44)"
+        },
+        {
+          "sourceId": "week-2026-11-02",
+          "status": "read",
+          "count": 8,
+          "note": "核对 11 月 2 日至 8 日 Weekly · Featured，采样当时可见的前 8 名。该周尚未结束，8 款均与窗口内日榜样本重合。[官方榜单](https://www.producthunt.com/leaderboard/weekly/2026/45)"
+        }
+      ],
+      "products": [
+        {
+          "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+          "name": "Vaani Developer Platform",
+          "tagline": "无代码配置电话语音代理、通话流程和结构化结果。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-30",
+              "productUrl": "https://www.producthunt.com/products/vaani-developer-platfrom",
+              "name": "Vaani Developer Platform",
+              "tagline": "无代码配置电话语音代理、通话流程和结构化结果。",
+              "rank": 1,
+              "votes": 393,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/vaani-developer-platfrom",
+              "name": "Vaani Developer Platform",
+              "tagline": "配置并上线电话语音代理。",
+              "rank": 3,
+              "votes": 393,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/knocket-ai",
+          "name": "Knocket AI",
+          "tagline": "通过网站或链接与访客聊天。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-30",
+              "productUrl": "https://www.producthunt.com/products/knocket-ai",
+              "name": "Knocket AI",
+              "tagline": "通过网站或链接与访客聊天。",
+              "rank": 2,
+              "votes": 353,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/knocket-ai",
+              "name": "Knocket AI",
+              "tagline": "在网站或分享链接中接待访客对话。",
+              "rank": 6,
+              "votes": 353,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/speakon",
+          "name": "SpeakON Agent",
+          "tagline": "把口头指令转成可由代理执行的任务。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-30",
+              "productUrl": "https://www.producthunt.com/products/speakon",
+              "name": "SpeakON Agent",
+              "tagline": "把口头指令转成可由代理执行的任务。",
+              "rank": 3,
+              "votes": 327,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/speakon",
+              "name": "SpeakON Agent",
+              "tagline": "把口述内容交给代理执行。",
+              "rank": 8,
+              "votes": 327,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/screen-studio",
+          "name": "Screen Studio 4.0",
+          "tagline": "录制屏幕演示，支持局部放大、人物抠像和按转录文字剪辑。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-01",
+              "productUrl": "https://www.producthunt.com/products/screen-studio",
+              "name": "Screen Studio 4.0",
+              "tagline": "录制屏幕演示，支持局部放大、人物抠像和按转录文字剪辑。",
+              "rank": 1,
+              "votes": 459,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/screen-studio",
+              "name": "Screen Studio 4.0",
+              "tagline": "录制并编辑屏幕演示，支持按转录文字剪辑。",
+              "rank": 2,
+              "votes": 459,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/asymptotelabs",
+          "name": "beacon.sh",
+          "tagline": "为编码代理提供可持续改进的开源记忆层。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/asymptotelabs",
+              "name": "beacon.sh",
+              "tagline": "为编码代理提供可持续改进的开源记忆层。",
+              "rank": 1,
+              "votes": 473,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/asymptotelabs",
+              "name": "beacon.sh",
+              "tagline": "为编码代理提供可持续改进的开源记忆。",
+              "rank": 1,
+              "votes": 473,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/unleashx",
+          "name": "UnleashX",
+          "tagline": "用 AI 代理推进对话中的待办事项。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/unleashx",
+              "name": "UnleashX",
+              "tagline": "用 AI 代理推进对话中的待办事项。",
+              "rank": 2,
+              "votes": 365,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/unleashx",
+              "name": "UnleashX",
+              "tagline": "用 AI 代理执行对话中形成的工作。",
+              "rank": 6,
+              "votes": 364,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/xmind",
+          "name": "Xmind 2027",
+          "tagline": "在思维导图中用 AI 辅助梳理想法。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/xmind",
+              "name": "Xmind 2027",
+              "tagline": "在思维导图中用 AI 辅助梳理想法。",
+              "rank": 3,
+              "votes": 317,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/xmind",
+              "name": "Xmind 2027",
+              "tagline": "在思维导图中用 AI 整理和展开思路。",
+              "rank": 8,
+              "votes": 317,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/scalekit",
+          "name": "Scalekit",
+          "tagline": "通过 MCP 网关让生产环境中的代理代表用户调用工具。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-03",
+              "productUrl": "https://www.producthunt.com/products/scalekit",
+              "name": "Scalekit",
+              "tagline": "通过 MCP 网关让生产环境中的代理代表用户调用工具。",
+              "rank": 1,
+              "votes": 422,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/scalekit",
+              "name": "Scalekit",
+              "tagline": "为生产代理提供代表用户调用工具的 MCP 网关。",
+              "rank": 3,
+              "votes": 422,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+          "name": "Teamily AI",
+          "tagline": "在同一通讯应用中组织人、个人代理和代理团队协作。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-03",
+              "productUrl": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+              "name": "Teamily AI",
+              "tagline": "在同一通讯应用中组织人、个人代理和代理团队协作。",
+              "rank": 2,
+              "votes": 375,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+              "name": "Teamily AI",
+              "tagline": "让人和代理团队在同一通讯应用里协作。",
+              "rank": 4,
+              "votes": 375,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/wanaka-studio",
+          "name": "Wanaka Studio",
+          "tagline": "用 AI 游戏引擎制作并发布 3D 游戏。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-04",
+              "productUrl": "https://www.producthunt.com/products/wanaka-studio",
+              "name": "Wanaka Studio",
+              "tagline": "用 AI 游戏引擎制作并发布 3D 游戏。",
+              "rank": 1,
+              "votes": 468,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/wanaka-studio",
+              "name": "Wanaka Studio",
+              "tagline": "用 AI 游戏引擎制作和发布 3D 游戏。",
+              "rank": 2,
+              "votes": 468,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/floot",
+          "name": "Floot Payments",
+          "tagline": "为在 ChatGPT 或 Claude 中构建的应用接入收款。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-04",
+              "productUrl": "https://www.producthunt.com/products/floot",
+              "name": "Floot Payments",
+              "tagline": "为在 ChatGPT 或 Claude 中构建的应用接入收款。",
+              "rank": 2,
+              "votes": 327,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/floot",
+              "name": "Floot Payments",
+              "tagline": "给在 ChatGPT 或 Claude 中构建的应用接入支付。",
+              "rank": 7,
+              "votes": 327,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/glasshand",
+          "name": "Glasshand",
+          "tagline": "为代理提供可操作的真实 iPhone 和 Mac。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-05",
+              "productUrl": "https://www.producthunt.com/products/glasshand",
+              "name": "Glasshand",
+              "tagline": "为代理提供可操作的真实 iPhone 和 Mac。",
+              "rank": 1,
+              "votes": 376,
+              "launchDate": null
+            },
+            {
+              "sourceId": "week-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/glasshand",
+              "name": "Glasshand",
+              "tagline": "让代理操作真实的 iPhone 和 Mac。",
+              "rank": 5,
+              "votes": 375,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/canva",
+          "name": "Canva Brush",
+          "tagline": "用视觉语言模型修改已有设计。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-30",
+              "productUrl": "https://www.producthunt.com/products/canva",
+              "name": "Canva Brush",
+              "tagline": "用视觉语言模型修改已有设计。",
+              "rank": 4,
+              "votes": 200,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/xwiki",
+          "name": "MCP Server by XWiki",
+          "tagline": "通过 MCP 向 AI 提供团队 Wiki 知识，并保留访问控制。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-30",
+              "productUrl": "https://www.producthunt.com/products/xwiki",
+              "name": "MCP Server by XWiki",
+              "tagline": "通过 MCP 向 AI 提供团队 Wiki 知识，并保留访问控制。",
+              "rank": 5,
+              "votes": 183,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/specsight",
+          "name": "Specsight",
+          "tagline": "为借助 AI 快速迭代的团队提供产品可观测能力。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-31",
+              "productUrl": "https://www.producthunt.com/products/specsight",
+              "name": "Specsight",
+              "tagline": "为借助 AI 快速迭代的团队提供产品可观测能力。",
+              "rank": 1,
+              "votes": 331,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/ski",
+          "name": "SKI",
+          "tagline": "用语音操作编码代理。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-31",
+              "productUrl": "https://www.producthunt.com/products/ski",
+              "name": "SKI",
+              "tagline": "用语音操作编码代理。",
+              "rank": 2,
+              "votes": 315,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/telemetry-dev",
+          "name": "telemetry.dev",
+          "tagline": "观测 AI 代理的运行情况。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-31",
+              "productUrl": "https://www.producthunt.com/products/telemetry-dev",
+              "name": "telemetry.dev",
+              "tagline": "观测 AI 代理的运行情况。",
+              "rank": 3,
+              "votes": 269,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/backenly-2",
+          "name": "Backenly",
+          "tagline": "为编码代理提供可自主运行的后端。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-31",
+              "productUrl": "https://www.producthunt.com/products/backenly-2",
+              "name": "Backenly",
+              "tagline": "为编码代理提供可自主运行的后端。",
+              "rank": 4,
+              "votes": 169,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/winneradspy",
+          "name": "WinnerAdSpy",
+          "tagline": "从竞品广告中提取可用于应用推广的线索。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-10-31",
+              "productUrl": "https://www.producthunt.com/products/winneradspy",
+              "name": "WinnerAdSpy",
+              "tagline": "从竞品广告中提取可用于应用推广的线索。",
+              "rank": 5,
+              "votes": 163,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/clawsgo-science",
+          "name": "ClawsGO Science",
+          "tagline": "为研究代理提供云端实验环境。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-01",
+              "productUrl": "https://www.producthunt.com/products/clawsgo-science",
+              "name": "ClawsGO Science",
+              "tagline": "为研究代理提供云端实验环境。",
+              "rank": 2,
+              "votes": 292,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/riverside-fm",
+          "name": "Riverside Agents",
+          "tagline": "用代理协助视频制作、剪辑、切片与发布。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-01",
+              "productUrl": "https://www.producthunt.com/products/riverside-fm",
+              "name": "Riverside Agents",
+              "tagline": "用代理协助视频制作、剪辑、切片与发布。",
+              "rank": 3,
+              "votes": 221,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/embage",
+          "name": "Embage",
+          "tagline": "搭建面向客户的代理，运行并分析工作流。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-01",
+              "productUrl": "https://www.producthunt.com/products/embage",
+              "name": "Embage",
+              "tagline": "搭建面向客户的代理，运行并分析工作流。",
+              "rank": 4,
+              "votes": 175,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/ideogram",
+          "name": "Precise Edit by Ideogram",
+          "tagline": "结合图像上下文进行精细编辑。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-01",
+              "productUrl": "https://www.producthunt.com/products/ideogram",
+              "name": "Precise Edit by Ideogram",
+              "tagline": "结合图像上下文进行精细编辑。",
+              "rank": 5,
+              "votes": 146,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/cedric",
+          "name": "Cedric AI for Meetings",
+          "tagline": "由代理代为参会和讲解幻灯片。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/cedric",
+              "name": "Cedric AI for Meetings",
+              "tagline": "由代理代为参会和讲解幻灯片。",
+              "rank": 4,
+              "votes": 241,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/hera-6",
+          "name": "Hera",
+          "tagline": "在画布中使用 AI 辅助创意制作。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-02",
+              "productUrl": "https://www.producthunt.com/products/hera-6",
+              "name": "Hera",
+              "tagline": "在画布中使用 AI 辅助创意制作。",
+              "rank": 5,
+              "votes": 215,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/testifly-launch",
+          "name": "Testifly",
+          "tagline": "用 AI 自主执行网页端到端测试。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-03",
+              "productUrl": "https://www.producthunt.com/products/testifly-launch",
+              "name": "Testifly",
+              "tagline": "用 AI 自主执行网页端到端测试。",
+              "rank": 3,
+              "votes": 264,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/synter-canvas",
+          "name": "Synter Canvas",
+          "tagline": "由代理在多个广告平台执行投放。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-03",
+              "productUrl": "https://www.producthunt.com/products/synter-canvas",
+              "name": "Synter Canvas",
+              "tagline": "由代理在多个广告平台执行投放。",
+              "rank": 4,
+              "votes": 191,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/videco",
+          "name": "Videco",
+          "tagline": "把单条视频转成一组内容推广素材。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-03",
+              "productUrl": "https://www.producthunt.com/products/videco",
+              "name": "Videco",
+              "tagline": "把单条视频转成一组内容推广素材。",
+              "rank": 5,
+              "votes": 154,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/prelulu",
+          "name": "Prelulu",
+          "tagline": "通过聊天和视频扮演故事主角。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-04",
+              "productUrl": "https://www.producthunt.com/products/prelulu",
+              "name": "Prelulu",
+              "tagline": "通过聊天和视频扮演故事主角。",
+              "rank": 3,
+              "votes": 277,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/render",
+          "name": "Render Sandboxes",
+          "tagline": "为代理分配独立的沙箱计算环境。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-04",
+              "productUrl": "https://www.producthunt.com/products/render",
+              "name": "Render Sandboxes",
+              "tagline": "为代理分配独立的沙箱计算环境。",
+              "rank": 4,
+              "votes": 252,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/openmail",
+          "name": "OpenMail",
+          "tagline": "为 AI 代理分配独立的电子邮件身份。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-04",
+              "productUrl": "https://www.producthunt.com/products/openmail",
+              "name": "OpenMail",
+              "tagline": "为 AI 代理分配独立的电子邮件身份。",
+              "rank": 5,
+              "votes": 203,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/chatandbuild",
+          "name": "Living Brain",
+          "tagline": "为代理提供可互操作的记忆层。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-05",
+              "productUrl": "https://www.producthunt.com/products/chatandbuild",
+              "name": "Living Brain",
+              "tagline": "为代理提供可互操作的记忆层。",
+              "rank": 2,
+              "votes": 247,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/rerun-2",
+          "name": "Rerun",
+          "tagline": "用已有 AI 订阅组建可协作的代理团队。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-05",
+              "productUrl": "https://www.producthunt.com/products/rerun-2",
+              "name": "Rerun",
+              "tagline": "用已有 AI 订阅组建可协作的代理团队。",
+              "rank": 3,
+              "votes": 262,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/pushary",
+          "name": "Pushary for Teams",
+          "tagline": "记录团队中是谁批准了代理的操作。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-05",
+              "productUrl": "https://www.producthunt.com/products/pushary",
+              "name": "Pushary for Teams",
+              "tagline": "记录团队中是谁批准了代理的操作。",
+              "rank": 4,
+              "votes": 194,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/maritime",
+          "name": "Maritime",
+          "tagline": "为 AI 代理提供可定制的云电脑。",
+          "inWindow": true,
+          "observations": [
+            {
+              "sourceId": "day-2026-11-05",
+              "productUrl": "https://www.producthunt.com/products/maritime",
+              "name": "Maritime",
+              "tagline": "为 AI 代理提供可定制的云电脑。",
+              "rank": 5,
+              "votes": 201,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/empacer",
+          "name": "Empacer",
+          "tagline": "面向中小企业的语音助手。",
+          "inWindow": false,
+          "observations": [
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/empacer",
+              "name": "Empacer",
+              "tagline": "面向中小企业的语音助手。",
+              "rank": 1,
+              "votes": 471,
+              "launchDate": null
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/theysaid",
+          "name": "TheySaid 4.0",
+          "tagline": "在开发工具中发起用户测试，收集真人或模拟用户反馈。",
+          "inWindow": false,
+          "observations": [
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/theysaid",
+              "name": "TheySaid 4.0",
+              "tagline": "在开发工具中发起用户测试，收集真人或模拟用户反馈。",
+              "rank": 4,
+              "votes": 389,
+              "launchDate": "2026-10-27"
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/strawberry",
+          "name": "Strawberry 1.0",
+          "tagline": "在浏览器内用代理执行调研和重复性操作。",
+          "inWindow": false,
+          "observations": [
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/strawberry",
+              "name": "Strawberry 1.0",
+              "tagline": "在浏览器内用代理执行调研和重复性操作。",
+              "rank": 5,
+              "votes": 362,
+              "launchDate": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "url": "https://www.producthunt.com/products/scape-4",
+          "name": "Scape",
+          "tagline": "用智能收件箱协助处理邮件。",
+          "inWindow": false,
+          "observations": [
+            {
+              "sourceId": "week-2026-10-26",
+              "productUrl": "https://www.producthunt.com/products/scape-4",
+              "name": "Scape",
+              "tagline": "用智能收件箱协助处理邮件。",
+              "rank": 7,
+              "votes": 337,
+              "launchDate": null
+            }
+          ]
+        }
+      ],
+      "analysis": {
+        "summary": "7 个 Featured 日榜共收录 35 款窗口内上榜产品。两周榜共 16 条，其中 12 条与日榜重合，其余 4 条仅供参考。票数采用各榜页面的可见快照，发布日仅在有明确证据时填写。样本中的重复任务包括代理执行环境与权限配置、从录屏到发布、从访客对话到任务交接。下列痛点和交付形式是待验证的假设。榜单反映 Product Hunt 社区关注，实际使用频率和付费意愿仍需验证。",
+        "groups": [
+          {
+            "label": "为代理配置运行环境、权限和身份",
+            "problem": "平台工程师把代理接入真实业务时，需要配置计算环境、工具访问、发件身份和人工批准。",
+            "opportunity": "选一个真实任务，交付环境配置、最小权限表、审批节点和操作记录模板。比较接入耗时、失败恢复时间和审批负担。",
+            "productUrls": [
+              "https://www.producthunt.com/products/render",
+              "https://www.producthunt.com/products/glasshand",
+              "https://www.producthunt.com/products/maritime",
+              "https://www.producthunt.com/products/scalekit",
+              "https://www.producthunt.com/products/openmail",
+              "https://www.producthunt.com/products/pushary",
+              "https://www.producthunt.com/products/backenly-2"
+            ]
+          },
+          {
+            "label": "复用代理记忆和团队知识",
+            "problem": "研发团队的规则分散在 Wiki 和会话里，代理跨会话或跨工具接手时可能重复索取上下文，也可能沿用过时信息。",
+            "opportunity": "交付可写入记忆的规则清单、Wiki 权限映射和失效策略。用一项重复编码任务比较上下文补充次数和过时信息引用率。",
+            "productUrls": [
+              "https://www.producthunt.com/products/xwiki",
+              "https://www.producthunt.com/products/asymptotelabs",
+              "https://www.producthunt.com/products/chatandbuild"
+            ]
+          },
+          {
+            "label": "发布前回归和上线后排障",
+            "problem": "小型研发与 QA 团队要在快速迭代时验证关键网页流程，并区分产品异常和代理执行失败。",
+            "opportunity": "交付关键路径回归清单、故障复现格式和运行记录样表。选一个已知缺陷回放，测检出率、误报率与定位耗时。",
+            "productUrls": [
+              "https://www.producthunt.com/products/specsight",
+              "https://www.producthunt.com/products/telemetry-dev",
+              "https://www.producthunt.com/products/testifly-launch"
+            ]
+          },
+          {
+            "label": "从录屏、长视频和设计稿产出推广素材",
+            "problem": "产品营销团队和创作者要为不同渠道反复录制、剪辑、切片和修改画面。",
+            "opportunity": "用一个真实功能演示交付母版视频、短切片、封面变体和发布清单，记录从源素材到可发布成品的耗时及返工轮次。",
+            "productUrls": [
+              "https://www.producthunt.com/products/screen-studio",
+              "https://www.producthunt.com/products/riverside-fm",
+              "https://www.producthunt.com/products/videco",
+              "https://www.producthunt.com/products/canva",
+              "https://www.producthunt.com/products/ideogram",
+              "https://www.producthunt.com/products/hera-6"
+            ]
+          },
+          {
+            "label": "从竞品广告研究到投放实验",
+            "problem": "应用增长团队需要把竞品素材里的观察变成可追踪的广告假设，再把实验配置同步到渠道。",
+            "opportunity": "交付竞品素材拆解表、广告假设卡和投放审批表。先在一个渠道验证从发现素材到上线的用时，以及团队是否会复用该流程。",
+            "productUrls": [
+              "https://www.producthunt.com/products/winneradspy",
+              "https://www.producthunt.com/products/synter-canvas"
+            ]
+          },
+          {
+            "label": "接待网站访客和电话来电",
+            "problem": "中小企业客服和销售需要在网站或电话接住咨询、收集必要信息并把复杂问题交给真人。",
+            "opportunity": "交付一个咨询场景的问答、通话分支、结果字段和转人工规则。用脱敏的历史咨询回放，测有效信息收集率和转人工准确率。",
+            "productUrls": [
+              "https://www.producthunt.com/products/vaani-developer-platfrom",
+              "https://www.producthunt.com/products/knocket-ai",
+              "https://www.producthunt.com/products/embage"
+            ]
+          },
+          {
+            "label": "把语音和对话交接为可验收的工作",
+            "problem": "小团队在口述、群聊、会议和个人代理之间交接时，负责人、截止时间与验收条件容易遗漏。",
+            "opportunity": "交付口述转任务卡、会议代讲脚本和人机交接表。挑一个重复任务，比较澄清轮次与一次验收通过率。",
+            "productUrls": [
+              "https://www.producthunt.com/products/speakon",
+              "https://www.producthunt.com/products/ski",
+              "https://www.producthunt.com/products/unleashx",
+              "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+              "https://www.producthunt.com/products/rerun-2",
+              "https://www.producthunt.com/products/cedric"
+            ]
+          },
+          {
+            "label": "从创意发散到可玩的互动原型",
+            "problem": "独立游戏和互动内容创作者需要把发散构思收敛为可体验的场景、角色与任务。",
+            "opportunity": "交付一张分支导图、一段互动脚本和一个可玩的单场景原型。观察试玩者能否独立完成首个目标，并记录作者的修改耗时。",
+            "productUrls": [
+              "https://www.producthunt.com/products/xmind",
+              "https://www.producthunt.com/products/wanaka-studio",
+              "https://www.producthunt.com/products/prelulu"
+            ]
+          }
+        ],
+        "insights": [
+          {
+            "productUrl": "https://www.producthunt.com/products/vaani-developer-platfrom",
+            "capability": "配置电话代理、通话分支和结构化结果。",
+            "audience": "有重复来电的中小企业客服与运营",
+            "nextStep": "用脱敏来电记录试交付一个预约或报价场景，核对字段完整率和转人工准确率，再询问客户是否愿意为部署付费。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/screen-studio",
+            "capability": "录制产品演示并按转录文字剪辑。",
+            "audience": "独立开发者和产品营销人员",
+            "nextStep": "给同一功能制作一条演示母版和三条短切片，记录编辑耗时、修改轮次，并询问是否愿意按次购买。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/asymptotelabs",
+            "capability": "给编码代理提供开源记忆层。",
+            "audience": "在同一代码库反复使用编码代理的工程团队",
+            "nextStep": "选一个重复维护任务做跨会话对照，统计补充背景的次数、错误沿用规则的次数和维护记忆的时间。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/scalekit",
+            "capability": "为生产代理提供代表用户调用工具的 MCP 网关。",
+            "audience": "负责内部代理上线的平台工程师",
+            "nextStep": "为一个需要用户授权的工具调用画出权限和审批路径，测试授权失败后的处理时间。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/floot",
+            "capability": "为在 ChatGPT 或 Claude 中构建的应用接入收款。",
+            "audience": "用对话式构建工具推出付费小应用的独立开发者",
+            "nextStep": "交付一份最小付费流程与验收清单，用测试订单核对支付成功、失败和权限发放，再测真实用户购买意愿。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/clawsgo-science",
+            "capability": "给研究代理提供云端实验环境。",
+            "audience": "需要重复执行计算实验的研究人员",
+            "nextStep": "选择一个可公开复现的小实验，交付输入、运行参数、环境说明和结果记录，验证第二人能否复跑并复核输出。"
+          },
+          {
+            "productUrl": "https://www.producthunt.com/products/glasshand",
+            "capability": "提供代理可操作的真实 iPhone 和 Mac。",
+            "audience": "负责 Apple 设备流程验证的移动 QA 团队",
+            "nextStep": "选一条真实设备上的关键流程，试做操作与验收模板，对比成功率和人工介入时间。"
+          }
+        ]
+      }
+    }
+  ]
+}
